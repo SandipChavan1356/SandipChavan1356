@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SandipChavan13561356&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=SandipChavan1356&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
 ![Role](https://img.shields.io/badge/ROLE-FULL%20STACK%20DEVELOPER-blueviolet?style=for-the-badge)
 &nbsp;
@@ -44,9 +44,9 @@
 |---|---|
 | 📧 **EMAIL** | `chavanshree37@email.com` |
 | 📱 **PHONE** | `+91 84214 21696` |
-| 💼 **LINKEDIN** |[ [Connect with me](#) ](https://www.linkedin.com/in/sandip-chavan-37b274375/)|
-| 🐙 **GITHUB** | [[@SandipChavan135613561356](#)](https://github.com/SandipChavan135613561356) |
-| 🧩 **LEETCODE** |[ [Profile](#)](https://leetcode.com/u/Sandip_Chavan1356/) |
+| 💼 **LINKEDIN** | [Connect with me](https://www.linkedin.com/in/sandip-chavan-37b274375/) |
+| 🐙 **GITHUB** | [@SandipChavan1356](https://github.com/SandipChavan1356) |
+| 🧩 **LEETCODE** | [Profile](https://leetcode.com/u/Sandip_Chavan1356/) |
 | ⏰ **TIMEZONE** | `IST (UTC +5:30)` |
 
 </td>
@@ -271,12 +271,28 @@ B.E. in Computer Engineering — Savitribai Phule Pune University (SPPU)
 
 ## 📊 GITHUB STATS
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SandipChavan13561356&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandipChavan13561356&layout=compact&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SandipChavan1356&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandipChavan1356&layout=compact&theme=radical&hide_border=true"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SandipChavan13561356&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SandipChavan1356&theme=radical&hide_border=true" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 🐍 CONTRIBUTION SNAKE
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandipChavan1356/SandipChavan1356/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SandipChavan1356/SandipChavan1356/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SandipChavan1356/SandipChavan1356/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
