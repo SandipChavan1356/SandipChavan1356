@@ -44,9 +44,9 @@
 |---|---|
 | 📧 **EMAIL** | `chavanshree37@email.com` |
 | 📱 **PHONE** | `+91 84214 21696` |
-| 💼 **LINKEDIN** | [Connect with me](#) |
-| 🐙 **GITHUB** | [@sandipchavan](#) |
-| 🧩 **LEETCODE** | [Profile](#) |
+| 💼 **LINKEDIN** |[ [Connect with me](#) ](https://www.linkedin.com/in/sandip-chavan-37b274375/)|
+| 🐙 **GITHUB** | [[@SandipChavan1356](#)](https://github.com/SandipChavan1356) |
+| 🧩 **LEETCODE** |[ [Profile](#)](https://leetcode.com/u/Sandip_Chavan1356/) |
 | ⏰ **TIMEZONE** | `IST (UTC +5:30)` |
 
 </td>
