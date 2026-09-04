@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SandipChavan1356/SandipChavan1356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Sandip Chavan
 
-Here are some ideas to get you started:
+### 💻 Full Stack Developer | MERN Stack | AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=SandipChavan1356&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/ROLE-FULL%20STACK%20DEVELOPER-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STACK-MERN-61DAFB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20WEB-8A2BE2?style=for-the-badge" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```text
+🎓 3rd Year Computer Engineering Student
+💻 Full Stack Developer focused on MERN
+🚀 Building real-world web applications
+🤖 Interested in AI-powered applications
+🧠 Practicing DSA using C++
+🔧 Love debugging, learning and building
