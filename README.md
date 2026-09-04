@@ -6,6 +6,12 @@
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+SentinelAI+%E2%80%94+AI+Incident+Platform;JWT+%2B+REST+APIs+%2B+MongoDB+Aggregation;Currently+Exploring+AI%2FML+with+TensorFlow)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=SandipChavan1356&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
 ![Role](https://img.shields.io/badge/ROLE-FULL%20STACK%20DEVELOPER-blueviolet?style=for-the-badge)
@@ -277,6 +283,18 @@ B.E. in Computer Engineering — Savitribai Phule Pune University (SPPU)
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandipChavan1356&theme=radical&hide_border=true" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 🏆 GITHUB TROPHIES
+
+<img src="https://github-profile-trophy.vercel.app/?username=SandipChavan1356&theme=radical&no-frame=true&no-bg=false&margin-w=15&column=7" />
 
 </div>
 
